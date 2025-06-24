@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_ONEDRIVE_DOCUMENTS_UTEM_Y2_SEM_2_EVENT_DRIVEN_PROGRAMMING_CAFESYSTEM_CAFESYSTEM_MEOWCAFEDATABASE.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\cafesystem\\meowcafedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\meowcafedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
@@ -18,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +42,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_ONEDRIVE_DOCUMENTS_UTEM_Y2_SEM_2_EVENT_DRIVEN_PROGRAMMING_CAFESYSTEM_CAFESYSTEM_MEOWCAFEDATABASE.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-24T15:09:14.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "meowcafedataset.xsd",
               "DocumentMoniker": "C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\cafesystem\\meowcafedataset.xsd",
               "RelativeDocumentMoniker": "cafesystem\\meowcafedataset.xsd",
