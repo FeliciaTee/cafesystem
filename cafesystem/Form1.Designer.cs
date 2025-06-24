@@ -86,8 +86,12 @@
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
+<<<<<<< Updated upstream
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+=======
+            this.Text = "x";
+>>>>>>> Stashed changes
             this.ResumeLayout(false);
             this.PerformLayout();
 

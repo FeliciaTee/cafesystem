@@ -3,12 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\cafesystem\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|c:\\users\\user\\documents\\github\\cafesystem\\cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|C:\\Users\\user\\Documents\\GitHub\\cafesystem\\cafesystem\\meowcafedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\meowcafedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\cafesystem\\meowcafedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\meowcafedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|c:\\users\\felicia\\onedrive\\documents\\utem\\y2 sem 2\\event driven programming\\cafesystem\\cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +27,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 5,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "meowcafedataset.xsd",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\cafesystem\\cafesystem\\meowcafedataset.xsd",
               "RelativeDocumentMoniker": "cafesystem\\meowcafedataset.xsd",
@@ -50,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\cafesystem\\cafesystem\\Form1.cs",
               "RelativeDocumentMoniker": "cafesystem\\Form1.cs",
