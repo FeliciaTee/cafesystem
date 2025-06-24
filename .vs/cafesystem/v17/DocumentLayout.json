@@ -42,12 +42,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Users [Data]",
+              "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_ONEDRIVE_DOCUMENTS_UTEM_Y2_SEM_2_EVENT_DRIVEN_PROGRAMMING_CAFESYSTEM_CAFESYSTEM_MEOWCAFEDATABASE.MDF/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_ONEDRIVE_DOCUMENTS_UTEM_Y2_SEM_2_EVENT_DRIVEN_PROGRAMMING_CAFESYSTEM_CAFESYSTEM_MEOWCAFEDATABASE.MDF/True/SqlTable/dbo.Users.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-24T15:09:14.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:09:14.192Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "ToolTip": "C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\cafesystem\\meowcafedataset.xsd",
               "RelativeToolTip": "cafesystem\\meowcafedataset.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-06-24T14:52:45.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T14:52:45.12Z"
             },
             {
               "$type": "Document",
