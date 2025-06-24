@@ -245,7 +245,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "OrderDetails";
-            this.Text = "OrderDetails";
+            this.Text = "Order Details";
             this.Load += new System.EventHandler(this.OrderDetails_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numQuantity)).EndInit();
             this.ResumeLayout(false);

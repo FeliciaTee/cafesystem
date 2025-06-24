@@ -72,11 +72,11 @@
             this.tpCakes.Controls.Add(this.btnChocolate);
             this.tpCakes.Controls.Add(this.btnTiramisu);
             this.tpCakes.Controls.Add(this.bynRedVelvet);
-            this.tpCakes.Location = new System.Drawing.Point(4, 29);
+            this.tpCakes.Location = new System.Drawing.Point(4, 30);
             this.tpCakes.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tpCakes.Name = "tpCakes";
             this.tpCakes.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tpCakes.Size = new System.Drawing.Size(217, 742);
+            this.tpCakes.Size = new System.Drawing.Size(217, 741);
             this.tpCakes.TabIndex = 1;
             this.tpCakes.Text = "Cakes";
             this.tpCakes.UseVisualStyleBackColor = true;
@@ -265,7 +265,8 @@
             this.Controls.Add(this.tcMenuCategories);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "mainMenu";
-            this.Text = "mainMenu";
+            this.Text = "MainMenu";
+            this.Load += new System.EventHandler(this.mainMenu_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvCurrentOrder)).EndInit();
             this.tpCakes.ResumeLayout(false);
             this.tpDrinks.ResumeLayout(false);
