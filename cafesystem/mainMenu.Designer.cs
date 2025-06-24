@@ -56,11 +56,12 @@
             // 
             this.dgvCurrentOrder.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvCurrentOrder.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvCurrentOrder.Location = new System.Drawing.Point(200, 0);
+            this.dgvCurrentOrder.Location = new System.Drawing.Point(225, 0);
+            this.dgvCurrentOrder.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dgvCurrentOrder.Name = "dgvCurrentOrder";
             this.dgvCurrentOrder.RowHeadersWidth = 51;
             this.dgvCurrentOrder.RowTemplate.Height = 24;
-            this.dgvCurrentOrder.Size = new System.Drawing.Size(604, 620);
+            this.dgvCurrentOrder.Size = new System.Drawing.Size(679, 775);
             this.dgvCurrentOrder.TabIndex = 1;
             // 
             // tpCakes
@@ -71,64 +72,71 @@
             this.tpCakes.Controls.Add(this.btnChocolate);
             this.tpCakes.Controls.Add(this.btnTiramisu);
             this.tpCakes.Controls.Add(this.bynRedVelvet);
-            this.tpCakes.Location = new System.Drawing.Point(4, 25);
+            this.tpCakes.Location = new System.Drawing.Point(4, 29);
+            this.tpCakes.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tpCakes.Name = "tpCakes";
-            this.tpCakes.Padding = new System.Windows.Forms.Padding(3);
-            this.tpCakes.Size = new System.Drawing.Size(192, 591);
+            this.tpCakes.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.tpCakes.Size = new System.Drawing.Size(217, 742);
             this.tpCakes.TabIndex = 1;
             this.tpCakes.Text = "Cakes";
             this.tpCakes.UseVisualStyleBackColor = true;
             // 
             // btnPandan
             // 
-            this.btnPandan.Location = new System.Drawing.Point(6, 481);
+            this.btnPandan.Location = new System.Drawing.Point(7, 601);
+            this.btnPandan.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnPandan.Name = "btnPandan";
-            this.btnPandan.Size = new System.Drawing.Size(177, 89);
+            this.btnPandan.Size = new System.Drawing.Size(199, 111);
             this.btnPandan.TabIndex = 6;
             this.btnPandan.Text = "Pandan Cake: \r\nRM 13.00";
             this.btnPandan.UseVisualStyleBackColor = true;
             // 
             // btnStrawberryCheesecak
             // 
-            this.btnStrawberryCheesecak.Location = new System.Drawing.Point(6, 386);
+            this.btnStrawberryCheesecak.Location = new System.Drawing.Point(7, 482);
+            this.btnStrawberryCheesecak.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnStrawberryCheesecak.Name = "btnStrawberryCheesecak";
-            this.btnStrawberryCheesecak.Size = new System.Drawing.Size(177, 89);
+            this.btnStrawberryCheesecak.Size = new System.Drawing.Size(199, 111);
             this.btnStrawberryCheesecak.TabIndex = 5;
             this.btnStrawberryCheesecak.Text = "Strawberry Cheesecake: RM 15.00";
             this.btnStrawberryCheesecak.UseVisualStyleBackColor = true;
             // 
             // btnMochiCheesecake
             // 
-            this.btnMochiCheesecake.Location = new System.Drawing.Point(8, 101);
+            this.btnMochiCheesecake.Location = new System.Drawing.Point(9, 126);
+            this.btnMochiCheesecake.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnMochiCheesecake.Name = "btnMochiCheesecake";
-            this.btnMochiCheesecake.Size = new System.Drawing.Size(177, 89);
+            this.btnMochiCheesecake.Size = new System.Drawing.Size(199, 111);
             this.btnMochiCheesecake.TabIndex = 4;
             this.btnMochiCheesecake.Text = "Mochi Cheesecake: \r\nRM 14.00";
             this.btnMochiCheesecake.UseVisualStyleBackColor = true;
             // 
             // btnChocolate
             // 
-            this.btnChocolate.Location = new System.Drawing.Point(8, 196);
+            this.btnChocolate.Location = new System.Drawing.Point(9, 245);
+            this.btnChocolate.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnChocolate.Name = "btnChocolate";
-            this.btnChocolate.Size = new System.Drawing.Size(177, 89);
+            this.btnChocolate.Size = new System.Drawing.Size(199, 111);
             this.btnChocolate.TabIndex = 3;
             this.btnChocolate.Text = "Chocolate Cake : \r\nRM 10.00";
             this.btnChocolate.UseVisualStyleBackColor = true;
             // 
             // btnTiramisu
             // 
-            this.btnTiramisu.Location = new System.Drawing.Point(6, 291);
+            this.btnTiramisu.Location = new System.Drawing.Point(7, 364);
+            this.btnTiramisu.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnTiramisu.Name = "btnTiramisu";
-            this.btnTiramisu.Size = new System.Drawing.Size(177, 89);
+            this.btnTiramisu.Size = new System.Drawing.Size(199, 111);
             this.btnTiramisu.TabIndex = 2;
             this.btnTiramisu.Text = "Tiramisu Cake: \r\nRM 15.00";
             this.btnTiramisu.UseVisualStyleBackColor = true;
             // 
             // bynRedVelvet
             // 
-            this.bynRedVelvet.Location = new System.Drawing.Point(9, 6);
+            this.bynRedVelvet.Location = new System.Drawing.Point(10, 8);
+            this.bynRedVelvet.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.bynRedVelvet.Name = "bynRedVelvet";
-            this.bynRedVelvet.Size = new System.Drawing.Size(177, 89);
+            this.bynRedVelvet.Size = new System.Drawing.Size(199, 111);
             this.bynRedVelvet.TabIndex = 1;
             this.bynRedVelvet.Text = "Red Velvet Cake: \r\nRM 12.00";
             this.bynRedVelvet.UseVisualStyleBackColor = true;
@@ -141,106 +149,121 @@
             this.tpDrinks.Controls.Add(this.btnCaramelLatte);
             this.tpDrinks.Controls.Add(this.btnStrawberryMatcha);
             this.tpDrinks.Controls.Add(this.btnMatchaLatte);
-            this.tpDrinks.Location = new System.Drawing.Point(4, 25);
+            this.tpDrinks.Location = new System.Drawing.Point(4, 30);
+            this.tpDrinks.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tpDrinks.Name = "tpDrinks";
-            this.tpDrinks.Padding = new System.Windows.Forms.Padding(3);
-            this.tpDrinks.Size = new System.Drawing.Size(192, 591);
+            this.tpDrinks.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.tpDrinks.Size = new System.Drawing.Size(217, 741);
             this.tpDrinks.TabIndex = 0;
             this.tpDrinks.Text = "Drinks";
             this.tpDrinks.UseVisualStyleBackColor = true;
             // 
             // btnCaramelMacchiato
             // 
-            this.btnCaramelMacchiato.Location = new System.Drawing.Point(6, 481);
+            this.btnCaramelMacchiato.Location = new System.Drawing.Point(7, 601);
+            this.btnCaramelMacchiato.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnCaramelMacchiato.Name = "btnCaramelMacchiato";
-            this.btnCaramelMacchiato.Size = new System.Drawing.Size(177, 89);
+            this.btnCaramelMacchiato.Size = new System.Drawing.Size(199, 111);
             this.btnCaramelMacchiato.TabIndex = 1;
             this.btnCaramelMacchiato.Text = "Caramel Macchiato: \r\nRM 11.70";
             this.btnCaramelMacchiato.UseVisualStyleBackColor = true;
             // 
             // btnMocha
             // 
-            this.btnMocha.Location = new System.Drawing.Point(6, 386);
+            this.btnMocha.Location = new System.Drawing.Point(7, 482);
+            this.btnMocha.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnMocha.Name = "btnMocha";
-            this.btnMocha.Size = new System.Drawing.Size(177, 89);
+            this.btnMocha.Size = new System.Drawing.Size(199, 111);
             this.btnMocha.TabIndex = 4;
             this.btnMocha.Text = "Mocha: \r\nRM 10.00";
             this.btnMocha.UseVisualStyleBackColor = true;
             // 
             // btnSpanishLatte
             // 
-            this.btnSpanishLatte.Location = new System.Drawing.Point(6, 291);
+            this.btnSpanishLatte.Location = new System.Drawing.Point(7, 364);
+            this.btnSpanishLatte.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSpanishLatte.Name = "btnSpanishLatte";
-            this.btnSpanishLatte.Size = new System.Drawing.Size(177, 89);
+            this.btnSpanishLatte.Size = new System.Drawing.Size(199, 111);
             this.btnSpanishLatte.TabIndex = 3;
             this.btnSpanishLatte.Text = "Spanish Latte: \r\nRM 8.70";
             this.btnSpanishLatte.UseVisualStyleBackColor = true;
             // 
             // btnCaramelLatte
             // 
-            this.btnCaramelLatte.Location = new System.Drawing.Point(6, 196);
+            this.btnCaramelLatte.Location = new System.Drawing.Point(7, 245);
+            this.btnCaramelLatte.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnCaramelLatte.Name = "btnCaramelLatte";
-            this.btnCaramelLatte.Size = new System.Drawing.Size(177, 89);
+            this.btnCaramelLatte.Size = new System.Drawing.Size(199, 111);
             this.btnCaramelLatte.TabIndex = 2;
             this.btnCaramelLatte.Text = "Caramel Latte: \r\nRm 10.90";
             this.btnCaramelLatte.UseVisualStyleBackColor = true;
             // 
             // btnStrawberryMatcha
             // 
-            this.btnStrawberryMatcha.Location = new System.Drawing.Point(6, 101);
+            this.btnStrawberryMatcha.Location = new System.Drawing.Point(7, 126);
+            this.btnStrawberryMatcha.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnStrawberryMatcha.Name = "btnStrawberryMatcha";
-            this.btnStrawberryMatcha.Size = new System.Drawing.Size(177, 89);
+            this.btnStrawberryMatcha.Size = new System.Drawing.Size(199, 111);
             this.btnStrawberryMatcha.TabIndex = 1;
             this.btnStrawberryMatcha.Text = "Strawberry Matcha: \r\nRM 12.00";
             this.btnStrawberryMatcha.UseVisualStyleBackColor = true;
             // 
             // btnMatchaLatte
             // 
-            this.btnMatchaLatte.Location = new System.Drawing.Point(9, 6);
+            this.btnMatchaLatte.BackColor = System.Drawing.Color.Transparent;
+            this.btnMatchaLatte.Location = new System.Drawing.Point(10, 8);
+            this.btnMatchaLatte.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnMatchaLatte.Name = "btnMatchaLatte";
-            this.btnMatchaLatte.Size = new System.Drawing.Size(177, 89);
+            this.btnMatchaLatte.Size = new System.Drawing.Size(199, 111);
             this.btnMatchaLatte.TabIndex = 0;
             this.btnMatchaLatte.Text = "Matcha Latte: \r\nRM 8.50";
-            this.btnMatchaLatte.UseVisualStyleBackColor = true;
+            this.btnMatchaLatte.UseVisualStyleBackColor = false;
             // 
             // tcMenuCategories
             // 
             this.tcMenuCategories.Controls.Add(this.tpDrinks);
             this.tcMenuCategories.Controls.Add(this.tpCakes);
             this.tcMenuCategories.Dock = System.Windows.Forms.DockStyle.Left;
+            this.tcMenuCategories.Font = new System.Drawing.Font("Mongolian Baiti", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tcMenuCategories.Location = new System.Drawing.Point(0, 0);
+            this.tcMenuCategories.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tcMenuCategories.Name = "tcMenuCategories";
             this.tcMenuCategories.SelectedIndex = 0;
-            this.tcMenuCategories.Size = new System.Drawing.Size(200, 620);
+            this.tcMenuCategories.Size = new System.Drawing.Size(225, 775);
             this.tcMenuCategories.TabIndex = 0;
             // 
             // btnRemoveItem
             // 
-            this.btnRemoveItem.Location = new System.Drawing.Point(299, 539);
+            this.btnRemoveItem.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRemoveItem.Location = new System.Drawing.Point(336, 674);
+            this.btnRemoveItem.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnRemoveItem.Name = "btnRemoveItem";
-            this.btnRemoveItem.Size = new System.Drawing.Size(200, 40);
+            this.btnRemoveItem.Size = new System.Drawing.Size(225, 50);
             this.btnRemoveItem.TabIndex = 2;
             this.btnRemoveItem.Text = "Remove Item";
             this.btnRemoveItem.UseVisualStyleBackColor = true;
             // 
             // btnContinue
             // 
-            this.btnContinue.Location = new System.Drawing.Point(541, 539);
+            this.btnContinue.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnContinue.Location = new System.Drawing.Point(609, 674);
+            this.btnContinue.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnContinue.Name = "btnContinue";
-            this.btnContinue.Size = new System.Drawing.Size(200, 40);
+            this.btnContinue.Size = new System.Drawing.Size(225, 50);
             this.btnContinue.TabIndex = 3;
             this.btnContinue.Text = "Continue -->";
             this.btnContinue.UseVisualStyleBackColor = true;
             // 
             // mainMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(804, 620);
+            this.ClientSize = new System.Drawing.Size(904, 775);
             this.Controls.Add(this.btnContinue);
             this.Controls.Add(this.btnRemoveItem);
             this.Controls.Add(this.dgvCurrentOrder);
             this.Controls.Add(this.tcMenuCategories);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "mainMenu";
             this.Text = "mainMenu";
             ((System.ComponentModel.ISupportInitialize)(this.dgvCurrentOrder)).EndInit();
