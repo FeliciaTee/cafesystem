@@ -21,5 +21,12 @@ namespace cafesystem
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            mainMenu menu = new mainMenu();  
+            menu.Show();                             
+            this.Hide();
+        }
     }
 }

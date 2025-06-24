@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\bin\Debug\meowcafedatabase.mdf
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\bin\Debug\meowcafedatabase_log.ldf
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\bin\Debug\cafesystem.exe.config
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\bin\Debug\cafesystem.exe
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\bin\Debug\cafesystem.pdb
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.Form1.resources
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.mainMenu.resources
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.exe
+C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.pdb

@@ -34,7 +34,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.tB_name = new System.Windows.Forms.TextBox();
             this.tB_phone = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn_order = new System.Windows.Forms.Button();
             this.rbDelivery = new System.Windows.Forms.RadioButton();
             this.rbPickup = new System.Windows.Forms.RadioButton();
             this.label4 = new System.Windows.Forms.Label();
@@ -95,15 +95,17 @@
             this.tB_phone.Size = new System.Drawing.Size(128, 22);
             this.tB_phone.TabIndex = 5;
             // 
-            // button1
+            // btn_order
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(557, 365);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(212, 39);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "start ordering";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btn_order.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_order.Location = new System.Drawing.Point(557, 365);
+            this.btn_order.Name = "btn_order";
+            this.btn_order.Size = new System.Drawing.Size(212, 39);
+            this.btn_order.TabIndex = 6;
+            this.btn_order.Tag = " ";
+            this.btn_order.Text = "Start Ordering";
+            this.btn_order.UseVisualStyleBackColor = true;
+            this.btn_order.Click += new System.EventHandler(this.button1_Click);
             // 
             // rbDelivery
             // 
@@ -148,7 +150,7 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.rbPickup);
             this.Controls.Add(this.rbDelivery);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btn_order);
             this.Controls.Add(this.tB_phone);
             this.Controls.Add(this.tB_name);
             this.Controls.Add(this.label3);
@@ -172,7 +174,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox tB_name;
         private System.Windows.Forms.TextBox tB_phone;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_order;
         private System.Windows.Forms.RadioButton rbDelivery;
         private System.Windows.Forms.RadioButton rbPickup;
         private System.Windows.Forms.Label label4;
