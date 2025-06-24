@@ -60,6 +60,7 @@
             this.label2.Size = new System.Drawing.Size(122, 25);
             this.label2.TabIndex = 2;
             this.label2.Text = "Username :";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -70,6 +71,7 @@
             this.label3.Size = new System.Drawing.Size(169, 25);
             this.label3.TabIndex = 3;
             this.label3.Text = "Phone Number :";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // tB_name
             // 
@@ -78,6 +80,7 @@
             this.tB_name.Name = "tB_name";
             this.tB_name.Size = new System.Drawing.Size(167, 26);
             this.tB_name.TabIndex = 4;
+            this.tB_name.TextChanged += new System.EventHandler(this.tB_name_TextChanged);
             // 
             // tB_phone
             // 
@@ -86,6 +89,7 @@
             this.tB_phone.Name = "tB_phone";
             this.tB_phone.Size = new System.Drawing.Size(144, 26);
             this.tB_phone.TabIndex = 5;
+            this.tB_phone.TextChanged += new System.EventHandler(this.tB_phone_TextChanged);
             // 
             // btn_order
             // 
@@ -127,6 +131,7 @@
             this.rbPickup.TabStop = true;
             this.rbPickup.Text = "Pick-Up";
             this.rbPickup.UseVisualStyleBackColor = true;
+            this.rbPickup.CheckedChanged += new System.EventHandler(this.rbPickup_CheckedChanged);
             // 
             // label4
             // 
@@ -137,6 +142,7 @@
             this.label4.Size = new System.Drawing.Size(277, 25);
             this.label4.TabIndex = 9;
             this.label4.Text = "Choose your order method :";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // pictureBox1
             // 

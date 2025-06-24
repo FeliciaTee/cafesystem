@@ -167,6 +167,7 @@
             this.btnCaramelMacchiato.TabIndex = 1;
             this.btnCaramelMacchiato.Text = "Caramel Macchiato: \r\nRM 11.70";
             this.btnCaramelMacchiato.UseVisualStyleBackColor = true;
+            this.btnCaramelMacchiato.Click += new System.EventHandler(this.btnCaramelMacchiato_Click);
             // 
             // btnMocha
             // 
@@ -177,6 +178,7 @@
             this.btnMocha.TabIndex = 4;
             this.btnMocha.Text = "Mocha: \r\nRM 10.00";
             this.btnMocha.UseVisualStyleBackColor = true;
+            this.btnMocha.Click += new System.EventHandler(this.btnMocha_Click);
             // 
             // btnSpanishLatte
             // 
@@ -187,6 +189,7 @@
             this.btnSpanishLatte.TabIndex = 3;
             this.btnSpanishLatte.Text = "Spanish Latte: \r\nRM 8.70";
             this.btnSpanishLatte.UseVisualStyleBackColor = true;
+            this.btnSpanishLatte.Click += new System.EventHandler(this.btnSpanishLatte_Click);
             // 
             // btnCaramelLatte
             // 
@@ -197,6 +200,7 @@
             this.btnCaramelLatte.TabIndex = 2;
             this.btnCaramelLatte.Text = "Caramel Latte: \r\nRm 10.90";
             this.btnCaramelLatte.UseVisualStyleBackColor = true;
+            this.btnCaramelLatte.Click += new System.EventHandler(this.btnCaramelLatte_Click);
             // 
             // btnStrawberryMatcha
             // 
@@ -207,6 +211,7 @@
             this.btnStrawberryMatcha.TabIndex = 1;
             this.btnStrawberryMatcha.Text = "Strawberry Matcha: \r\nRM 12.00";
             this.btnStrawberryMatcha.UseVisualStyleBackColor = true;
+            this.btnStrawberryMatcha.Click += new System.EventHandler(this.btnStrawberryMatcha_Click);
             // 
             // btnMatchaLatte
             // 
@@ -218,6 +223,7 @@
             this.btnMatchaLatte.TabIndex = 0;
             this.btnMatchaLatte.Text = "Matcha Latte: \r\nRM 8.50";
             this.btnMatchaLatte.UseVisualStyleBackColor = false;
+            this.btnMatchaLatte.Click += new System.EventHandler(this.btnMatchaLatte_Click);
             // 
             // tcMenuCategories
             // 
@@ -242,6 +248,7 @@
             this.btnRemoveItem.TabIndex = 2;
             this.btnRemoveItem.Text = "Remove Item";
             this.btnRemoveItem.UseVisualStyleBackColor = true;
+            this.btnRemoveItem.Click += new System.EventHandler(this.btnRemoveItem_Click);
             // 
             // btnContinue
             // 
@@ -253,6 +260,7 @@
             this.btnContinue.TabIndex = 3;
             this.btnContinue.Text = "Continue -->";
             this.btnContinue.UseVisualStyleBackColor = true;
+            this.btnContinue.Click += new System.EventHandler(this.btnContinue_Click);
             // 
             // mainMenu
             // 

@@ -11,3 +11,17 @@ C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj
 C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.exe
 C:\Users\user\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.pdb
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\bin\Debug\meowcafedatabase.mdf
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\bin\Debug\meowcafedatabase_log.ldf
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\bin\Debug\cafesystem.exe.config
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\bin\Debug\cafesystem.exe
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\bin\Debug\cafesystem.pdb
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.AssemblyReference.cache
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.Form1.resources
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.mainMenu.resources
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.OrderDetails.resources
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.Properties.Resources.resources
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.GenerateResource.cache
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.CoreCompileInputs.cache
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.exe
+C:\Users\Felicia\OneDrive\Documents\UTeM\Y2 SEM 2\EVENT DRIVEN PROGRAMMING\cafesystem\cafesystem\obj\Debug\cafesystem.pdb
