@@ -30,20 +30,20 @@
         {
             this.dgvCurrentOrder = new System.Windows.Forms.DataGridView();
             this.tpCakes = new System.Windows.Forms.TabPage();
-            this.tpDrinks = new System.Windows.Forms.TabPage();
-            this.btnMatchaLatte = new System.Windows.Forms.Button();
-            this.btnStrawberryMatcha = new System.Windows.Forms.Button();
-            this.btnCaramelLatte = new System.Windows.Forms.Button();
-            this.btnSpanishLatte = new System.Windows.Forms.Button();
-            this.btnMocha = new System.Windows.Forms.Button();
-            this.btnCaramelMacchiato = new System.Windows.Forms.Button();
-            this.tcMenuCategories = new System.Windows.Forms.TabControl();
-            this.bynRedVelvet = new System.Windows.Forms.Button();
-            this.btnTiramisu = new System.Windows.Forms.Button();
-            this.btnChocolate = new System.Windows.Forms.Button();
-            this.btnMochiCheesecake = new System.Windows.Forms.Button();
-            this.btnStrawberryCheesecak = new System.Windows.Forms.Button();
             this.btnPandan = new System.Windows.Forms.Button();
+            this.btnStrawberryCheesecak = new System.Windows.Forms.Button();
+            this.btnMochiCheesecake = new System.Windows.Forms.Button();
+            this.btnChocolate = new System.Windows.Forms.Button();
+            this.btnTiramisu = new System.Windows.Forms.Button();
+            this.bynRedVelvet = new System.Windows.Forms.Button();
+            this.tpDrinks = new System.Windows.Forms.TabPage();
+            this.btnCaramelMacchiato = new System.Windows.Forms.Button();
+            this.btnMocha = new System.Windows.Forms.Button();
+            this.btnSpanishLatte = new System.Windows.Forms.Button();
+            this.btnCaramelLatte = new System.Windows.Forms.Button();
+            this.btnStrawberryMatcha = new System.Windows.Forms.Button();
+            this.btnMatchaLatte = new System.Windows.Forms.Button();
+            this.tcMenuCategories = new System.Windows.Forms.TabControl();
             this.btnRemoveItem = new System.Windows.Forms.Button();
             this.btnContinue = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCurrentOrder)).BeginInit();
@@ -79,6 +79,60 @@
             this.tpCakes.Text = "Cakes";
             this.tpCakes.UseVisualStyleBackColor = true;
             // 
+            // btnPandan
+            // 
+            this.btnPandan.Location = new System.Drawing.Point(6, 481);
+            this.btnPandan.Name = "btnPandan";
+            this.btnPandan.Size = new System.Drawing.Size(177, 89);
+            this.btnPandan.TabIndex = 6;
+            this.btnPandan.Text = "Pandan Cake: \r\nRM 13.00";
+            this.btnPandan.UseVisualStyleBackColor = true;
+            // 
+            // btnStrawberryCheesecak
+            // 
+            this.btnStrawberryCheesecak.Location = new System.Drawing.Point(6, 386);
+            this.btnStrawberryCheesecak.Name = "btnStrawberryCheesecak";
+            this.btnStrawberryCheesecak.Size = new System.Drawing.Size(177, 89);
+            this.btnStrawberryCheesecak.TabIndex = 5;
+            this.btnStrawberryCheesecak.Text = "Strawberry Cheesecake: RM 15.00";
+            this.btnStrawberryCheesecak.UseVisualStyleBackColor = true;
+            // 
+            // btnMochiCheesecake
+            // 
+            this.btnMochiCheesecake.Location = new System.Drawing.Point(8, 101);
+            this.btnMochiCheesecake.Name = "btnMochiCheesecake";
+            this.btnMochiCheesecake.Size = new System.Drawing.Size(177, 89);
+            this.btnMochiCheesecake.TabIndex = 4;
+            this.btnMochiCheesecake.Text = "Mochi Cheesecake: \r\nRM 14.00";
+            this.btnMochiCheesecake.UseVisualStyleBackColor = true;
+            // 
+            // btnChocolate
+            // 
+            this.btnChocolate.Location = new System.Drawing.Point(8, 196);
+            this.btnChocolate.Name = "btnChocolate";
+            this.btnChocolate.Size = new System.Drawing.Size(177, 89);
+            this.btnChocolate.TabIndex = 3;
+            this.btnChocolate.Text = "Chocolate Cake : \r\nRM 10.00";
+            this.btnChocolate.UseVisualStyleBackColor = true;
+            // 
+            // btnTiramisu
+            // 
+            this.btnTiramisu.Location = new System.Drawing.Point(6, 291);
+            this.btnTiramisu.Name = "btnTiramisu";
+            this.btnTiramisu.Size = new System.Drawing.Size(177, 89);
+            this.btnTiramisu.TabIndex = 2;
+            this.btnTiramisu.Text = "Tiramisu Cake: \r\nRM 15.00";
+            this.btnTiramisu.UseVisualStyleBackColor = true;
+            // 
+            // bynRedVelvet
+            // 
+            this.bynRedVelvet.Location = new System.Drawing.Point(9, 6);
+            this.bynRedVelvet.Name = "bynRedVelvet";
+            this.bynRedVelvet.Size = new System.Drawing.Size(177, 89);
+            this.bynRedVelvet.TabIndex = 1;
+            this.bynRedVelvet.Text = "Red Velvet Cake: \r\nRM 12.00";
+            this.bynRedVelvet.UseVisualStyleBackColor = true;
+            // 
             // tpDrinks
             // 
             this.tpDrinks.Controls.Add(this.btnCaramelMacchiato);
@@ -95,41 +149,14 @@
             this.tpDrinks.Text = "Drinks";
             this.tpDrinks.UseVisualStyleBackColor = true;
             // 
-            // btnMatchaLatte
+            // btnCaramelMacchiato
             // 
-            this.btnMatchaLatte.Location = new System.Drawing.Point(9, 6);
-            this.btnMatchaLatte.Name = "btnMatchaLatte";
-            this.btnMatchaLatte.Size = new System.Drawing.Size(177, 89);
-            this.btnMatchaLatte.TabIndex = 0;
-            this.btnMatchaLatte.Text = "Matcha Latte: \r\nRM 8.50";
-            this.btnMatchaLatte.UseVisualStyleBackColor = true;
-            // 
-            // btnStrawberryMatcha
-            // 
-            this.btnStrawberryMatcha.Location = new System.Drawing.Point(6, 101);
-            this.btnStrawberryMatcha.Name = "btnStrawberryMatcha";
-            this.btnStrawberryMatcha.Size = new System.Drawing.Size(177, 89);
-            this.btnStrawberryMatcha.TabIndex = 1;
-            this.btnStrawberryMatcha.Text = "Strawberry Matcha: \r\nRM 12.00";
-            this.btnStrawberryMatcha.UseVisualStyleBackColor = true;
-            // 
-            // btnCaramelLatte
-            // 
-            this.btnCaramelLatte.Location = new System.Drawing.Point(6, 196);
-            this.btnCaramelLatte.Name = "btnCaramelLatte";
-            this.btnCaramelLatte.Size = new System.Drawing.Size(177, 89);
-            this.btnCaramelLatte.TabIndex = 2;
-            this.btnCaramelLatte.Text = "Caramel Latte: \r\nRM 10.90";
-            this.btnCaramelLatte.UseVisualStyleBackColor = true;
-            // 
-            // btnSpanishLatte
-            // 
-            this.btnSpanishLatte.Location = new System.Drawing.Point(6, 291);
-            this.btnSpanishLatte.Name = "btnSpanishLatte";
-            this.btnSpanishLatte.Size = new System.Drawing.Size(177, 89);
-            this.btnSpanishLatte.TabIndex = 3;
-            this.btnSpanishLatte.Text = "Spanish Latte: \r\nRM 8.70";
-            this.btnSpanishLatte.UseVisualStyleBackColor = true;
+            this.btnCaramelMacchiato.Location = new System.Drawing.Point(6, 481);
+            this.btnCaramelMacchiato.Name = "btnCaramelMacchiato";
+            this.btnCaramelMacchiato.Size = new System.Drawing.Size(177, 89);
+            this.btnCaramelMacchiato.TabIndex = 1;
+            this.btnCaramelMacchiato.Text = "Caramel Macchiato: \r\nRM 11.70";
+            this.btnCaramelMacchiato.UseVisualStyleBackColor = true;
             // 
             // btnMocha
             // 
@@ -140,14 +167,41 @@
             this.btnMocha.Text = "Mocha: \r\nRM 10.00";
             this.btnMocha.UseVisualStyleBackColor = true;
             // 
-            // btnCaramelMacchiato
+            // btnSpanishLatte
             // 
-            this.btnCaramelMacchiato.Location = new System.Drawing.Point(6, 481);
-            this.btnCaramelMacchiato.Name = "btnCaramelMacchiato";
-            this.btnCaramelMacchiato.Size = new System.Drawing.Size(177, 89);
-            this.btnCaramelMacchiato.TabIndex = 1;
-            this.btnCaramelMacchiato.Text = "Caramel Macchiato: \r\nRM 11.70";
-            this.btnCaramelMacchiato.UseVisualStyleBackColor = true;
+            this.btnSpanishLatte.Location = new System.Drawing.Point(6, 291);
+            this.btnSpanishLatte.Name = "btnSpanishLatte";
+            this.btnSpanishLatte.Size = new System.Drawing.Size(177, 89);
+            this.btnSpanishLatte.TabIndex = 3;
+            this.btnSpanishLatte.Text = "Spanish Latte: \r\nRM 8.70";
+            this.btnSpanishLatte.UseVisualStyleBackColor = true;
+            // 
+            // btnCaramelLatte
+            // 
+            this.btnCaramelLatte.Location = new System.Drawing.Point(6, 196);
+            this.btnCaramelLatte.Name = "btnCaramelLatte";
+            this.btnCaramelLatte.Size = new System.Drawing.Size(177, 89);
+            this.btnCaramelLatte.TabIndex = 2;
+            this.btnCaramelLatte.Text = "Caramel Latte: \r\nRm 10.90";
+            this.btnCaramelLatte.UseVisualStyleBackColor = true;
+            // 
+            // btnStrawberryMatcha
+            // 
+            this.btnStrawberryMatcha.Location = new System.Drawing.Point(6, 101);
+            this.btnStrawberryMatcha.Name = "btnStrawberryMatcha";
+            this.btnStrawberryMatcha.Size = new System.Drawing.Size(177, 89);
+            this.btnStrawberryMatcha.TabIndex = 1;
+            this.btnStrawberryMatcha.Text = "Strawberry Matcha: \r\nRM 12.00";
+            this.btnStrawberryMatcha.UseVisualStyleBackColor = true;
+            // 
+            // btnMatchaLatte
+            // 
+            this.btnMatchaLatte.Location = new System.Drawing.Point(9, 6);
+            this.btnMatchaLatte.Name = "btnMatchaLatte";
+            this.btnMatchaLatte.Size = new System.Drawing.Size(177, 89);
+            this.btnMatchaLatte.TabIndex = 0;
+            this.btnMatchaLatte.Text = "Matcha Latte: \r\nRM 8.50";
+            this.btnMatchaLatte.UseVisualStyleBackColor = true;
             // 
             // tcMenuCategories
             // 
@@ -159,60 +213,6 @@
             this.tcMenuCategories.SelectedIndex = 0;
             this.tcMenuCategories.Size = new System.Drawing.Size(200, 620);
             this.tcMenuCategories.TabIndex = 0;
-            // 
-            // bynRedVelvet
-            // 
-            this.bynRedVelvet.Location = new System.Drawing.Point(9, 6);
-            this.bynRedVelvet.Name = "bynRedVelvet";
-            this.bynRedVelvet.Size = new System.Drawing.Size(177, 89);
-            this.bynRedVelvet.TabIndex = 1;
-            this.bynRedVelvet.Text = "Red Velvet Cake: \r\nRM 12.00";
-            this.bynRedVelvet.UseVisualStyleBackColor = true;
-            // 
-            // btnTiramisu
-            // 
-            this.btnTiramisu.Location = new System.Drawing.Point(6, 291);
-            this.btnTiramisu.Name = "btnTiramisu";
-            this.btnTiramisu.Size = new System.Drawing.Size(177, 89);
-            this.btnTiramisu.TabIndex = 2;
-            this.btnTiramisu.Text = "Tiramisu Cake: \r\nRM 15.00";
-            this.btnTiramisu.UseVisualStyleBackColor = true;
-            // 
-            // btnChocolate
-            // 
-            this.btnChocolate.Location = new System.Drawing.Point(8, 196);
-            this.btnChocolate.Name = "btnChocolate";
-            this.btnChocolate.Size = new System.Drawing.Size(177, 89);
-            this.btnChocolate.TabIndex = 3;
-            this.btnChocolate.Text = "Chocolate Cake : \r\nRM 10.00";
-            this.btnChocolate.UseVisualStyleBackColor = true;
-            // 
-            // btnMochiCheesecake
-            // 
-            this.btnMochiCheesecake.Location = new System.Drawing.Point(8, 101);
-            this.btnMochiCheesecake.Name = "btnMochiCheesecake";
-            this.btnMochiCheesecake.Size = new System.Drawing.Size(177, 89);
-            this.btnMochiCheesecake.TabIndex = 4;
-            this.btnMochiCheesecake.Text = "Mochi Cheesecake: \r\nRM 14.00";
-            this.btnMochiCheesecake.UseVisualStyleBackColor = true;
-            // 
-            // btnStrawberryCheesecak
-            // 
-            this.btnStrawberryCheesecak.Location = new System.Drawing.Point(6, 386);
-            this.btnStrawberryCheesecak.Name = "btnStrawberryCheesecak";
-            this.btnStrawberryCheesecak.Size = new System.Drawing.Size(177, 89);
-            this.btnStrawberryCheesecak.TabIndex = 5;
-            this.btnStrawberryCheesecak.Text = "Strawberry Cheesecake: RM 15.00";
-            this.btnStrawberryCheesecak.UseVisualStyleBackColor = true;
-            // 
-            // btnPandan
-            // 
-            this.btnPandan.Location = new System.Drawing.Point(6, 481);
-            this.btnPandan.Name = "btnPandan";
-            this.btnPandan.Size = new System.Drawing.Size(177, 89);
-            this.btnPandan.TabIndex = 6;
-            this.btnPandan.Text = "Pandan Cake: \r\nRM 13.00";
-            this.btnPandan.UseVisualStyleBackColor = true;
             // 
             // btnRemoveItem
             // 
